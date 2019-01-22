@@ -1,0 +1,14 @@
+{
+  "firstName": "Zara",
+  "lastName": "Kedwai",
+  "nickName": "Zee",
+  "privateName": false,
+  "picture": "images/zkedwai.jpg",
+  "privatePicture": false,
+  "email": "zara.kedwai@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "zkedwai",
+  "privateGithub": false,
+  "superpower" : "cringiest puns",
+  "academicinterests": "geography and the globe"
+}
